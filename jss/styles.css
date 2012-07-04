@@ -1,0 +1,150 @@
+.spanstyle {
+	COLOR: black; FONT-FAMILY: Verdana; FONT-SIZE: 10pt; FONT-WEIGHT: bold; POSITION: absolute; TOP: -50px; VISIBILITY: visible
+}
+
+BODY {
+	FONT-SIZE: 11px; MARGIN: 0px; 
+	COLOR: #000033;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+     BACKGROUND-COLOR: #1a60a8;
+}
+
+H1 {
+	COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+H5 {
+	COLOR: #006666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+
+IMG{
+	BORDER-COLOR: #3A6D98; 
+}	
+TABLE {
+	FONT-SIZE: 12px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	BORDER-COLOR: #3A6D98;
+}
+SELECT {
+	FONT-SIZE: 8pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+INPUT {
+	FONT-SIZE: 8pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.listmenu {
+	WIDTH: 150px; COLOR: #980026; BACKGROUND-COLOR: #efdead
+}
+
+.textwht {
+	COLOR: #ffffff
+}
+.textCenter {
+	TEXT-ALIGN: center
+}
+.textRight {
+	TEXT-ALIGN: right
+}
+.textBold {
+	FONT-WEIGHT: bold; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.quotetxt {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #ffffff; FONT-STYLE: italic
+}
+.header {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000099
+}
+.tdhead {
+	FONT-WEIGHT: bold; COLOR: #3366cc; BACKGROUND-COLOR: #cccccc
+}
+.tablinside {
+	BORDER-RIGHT: #c2ecfc 1px solid; BORDER-TOP: #c2ecfc 1px solid; BORDER-LEFT: #c2ecfc 1px solid; BORDER-BOTTOM: #c2ecfc 1px solid
+}
+
+/* CSS Document */
+
+#dropmenudiv{
+position:absolute;
+border:1px solid #1a60a8;
+border-bottom-width: 0;
+font: verdana, helvetica,Arial;
+line-height:18px;
+z-index:100;
+}
+
+#dropmenudiv a{
+width: 100%;
+display: block;
+text-indent: 3px;
+border-bottom: 1px solid #1a60a8;
+padding: 1px 0;
+text-decoration: none;
+font-weight: bold;
+}
+#dropmenudiv a:hover{ /*hover background color*/
+background-color: #abcdef;
+}
+
+A:link {
+	FONT-SIZE: 8pt; COLOR: #FFFFFF; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; font-weight:bold; TEXT-DECORATION: none 
+}
+A:active {
+	FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; font-weight:bold; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; font-weight:bold; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 8pt; COLOR: #FFCC00; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; font-weight:bold; TEXT-DECORATION: none
+}
+
+.fazal:link {
+	FONT-SIZE: 10px; COLOR: #FFFFFF; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none 
+}
+.fazal:active {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.fazal:visited {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.fazal:hover {
+	FONT-SIZE: 10px; COLOR: #FFCC00; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+
+
+.fazl:link {
+	FONT-SIZE: 11px; COLOR: #993333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none ;font-weight:normal;
+}
+.fazl:active {
+	FONT-SIZE: 11px; COLOR: #993333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none; font-weight:normal;
+}
+.fazl:visited {
+	FONT-SIZE: 11px; COLOR: #993333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none; font-weight:normal;
+}
+.fazl:hover {
+	FONT-SIZE: 11px; COLOR: #FFCC00; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none; font-weight:normal;
+}
+
+
+.down:link {
+	FONT-SIZE: 15px; COLOR: #993333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none ;font-weight:bold;
+}
+.down:active {
+	FONT-SIZE: 15px; COLOR: #993333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none; font-weight:bold;
+}
+.down:visited {
+	FONT-SIZE: 15px; COLOR: #993333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none; font-weight:bold;
+}
+.down:hover {
+	FONT-SIZE: 15px; COLOR: #FFCC00; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none; font-weight:bold;
+}
+
+.fzl:link {
+	FONT-SIZE: 11px; COLOR: #083e86; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none ;font-weight:bold;
+}
+.fzl:active {
+	FONT-SIZE: 11px; COLOR: #083e86; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none; font-weight:bold;
+}
+.fzl:visited {
+	FONT-SIZE: 11px; COLOR: #083e86; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none; font-weight:bold;
+}
+.fzl:hover {
+	FONT-SIZE: 11px; COLOR: #FFCC00; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none; font-weight:bold;
+}
